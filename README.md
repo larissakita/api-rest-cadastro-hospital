@@ -19,6 +19,10 @@ API REST desenvolvida com Java e Spring Boot para gerenciamento de usuários e a
 * Validação de dados
 * API REST
 
+## Resultado
+
+https://github.com/user-attachments/assets/eb03ae38-0981-4d30-b6f2-3effaf735aba
+
 ## Como executar o projeto
 
 ### Clone o repositório
